@@ -3,8 +3,16 @@ This repository contains my first data analysis project using Excel, where I exp
 
 
 **Key components of the repository:**
+
+
 **Data:** Raw and cleaned datasets used for analysis.
+
+
 **Analysis:** Excel files with formulas, pivot tables, and charts.
+
+
 **Visualizations:** The final dashboard.
+
+
 **Insights**: A summary of findings and recommendations based on the analysis.
 
